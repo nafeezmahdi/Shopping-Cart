@@ -1,4 +1,4 @@
 # Shopping-Cart
 
-live preview
+Live preview : 
 https://nafeezmahdi.github.io/Shopping-Cart/
